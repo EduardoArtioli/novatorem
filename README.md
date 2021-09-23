@@ -2,8 +2,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://spotifywidget-2ic7mkuus-eduardoartioli.vercel.app/api/spotify)](https://open.spotify.com/user/22stasgmbstbdqu7jcwqp4uva)
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://spotifywidget-60a5e8car-eduardoartioli.vercel.app/api/spotify)](https://open.spotify.com/user/22stasgmbstbdqu7jcwqp4uva)
 
   </td>
   <td width="50%">
